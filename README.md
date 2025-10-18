@@ -1,4 +1,4 @@
-# Deep Learning Project 2 - AG News Classification with LoRA
+# AG News Classification with LoRA
 
 ## Project Overview
 This project implements a modified BERT architecture using Low-Rank Adaptation (LoRA) for text classification on the AG News dataset. The goal is to achieve high test accuracy while maintaining the model under 1 million trainable parameters.
